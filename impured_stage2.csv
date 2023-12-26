@@ -1,0 +1,288 @@
+Rank,IMDB Rating,Director,Metascore,Release Year,Duration
+1. The Shawshank Redemption,9.3,Frank Darabont,82,1994,2h 22m
+2. The Godfather,9.2,Francis Ford Coppola,100,1972,2h 55m
+3. The Dark Knight,9.0,Christopher Nolan,84,2008,2h 32m
+4. The Godfather Part II,9.0,Francis Ford Coppola,90,1974,3h 22m
+5. 12 Angry Men,9.0,Sidney Lumet,97,1957,1h 36m
+6. Schindler's List,,Steven Spielberg,95,1993,3h 15m
+7. The Lord of the Rings: The Return of the King,9.0,Peter Jackson,94,2003,3h 21m
+8. Pulp Fiction,,Quentin Tarantino,95,1994,2h 34m
+9. The Lord of the Rings: The Fellowship of the Ring,,Peter Jackson,92,2001,2h 58m
+"10. Il buono, il brutto, il cattivo",8.8,Sergio Leone,90,1966,2h 41m
+11. Forrest Gump,8.8,Robert Zemeckis,82,1994,2h 22m
+12. Fight Club,8.8,David Fincher,67,1999,2h 19m
+13. The Lord of the Rings: The Two Towers,,Peter Jackson,87,2002,2h 59m
+14. Inception,8.8,Christopher Nolan,74,2010,2h 28m
+15. Star Wars: Episode V - The Empire Strikes Back,8.7,Irvin Kershner,82,1980,2h 4m
+16. The Matrix,,Lana Wachowski,73,1999,2h 16m
+17. Goodfellas,8.7,Martin Scorsese,92,1990,2h 25m
+18. One Flew Over the Cuckoo's Nest,8.7,Milos Forman,84,1975,2h 13m
+19. Se7en,8.6,David Fincher,65,1995,2h 7m
+20. It's a Wonderful Life,8.6,Frank Capra,89,1946,2h 10m
+21. Shichinin no samurai,8.6,Akira Kurosawa,98,1954,3h 27m
+22. Interstellar,8.7,Christopher Nolan,74,2014,2h 49m
+23. The Silence of the Lambs,,Jonathan Demme,86,1991,1h 58m
+24. Saving Private Ryan,8.6,Steven Spielberg,91,1998,2h 49m
+25. Cidade de Deus,8.6,Fernando Meirelles,79,2002,2h 10m
+26. La vita è bella,8.6,Roberto Benigni,59,1997,1h 56m
+27. The Green Mile,8.6,Frank Darabont,61,1999,3h 9m
+28. Spider-Man: Across the Spider-Verse,8.7,Joaquim Dos Santos,86,2023,2h 20m
+29. Star Wars,8.6,George Lucas,90,1977,2h 1m
+30. Terminator 2: Judgment Day,8.6,James Cameron,75,1991,2h 17m
+31. Back to the Future,8.5,Robert Zemeckis,87,1985,1h 56m
+32. Spirited Away,8.6,Hayao Miyazaki,96,2001,2h 5m
+33. The Pianist,8.5,Roman Polanski,85,2002,2h 30m
+34. Psycho,8.5,Alfred Hitchcock,97,1960,1h 49m
+35. Parasite,8.5,Bong Joon Ho,96,2019,2h 12m
+36. Gladiator,8.5,Ridley Scott,67,2000,2h 35m
+37. The Lion King,8.5,Roger Allers,88,1994,1h 28m
+38. Léon,8.5,Luc Besson,64,1994,1h 50m
+39. American History X,8.5,Tony Kaye,62,1998,1h 59m
+40. The Departed,8.5,Martin Scorsese,85,2006,2h 31m
+41. Whiplash,8.5,Damien Chazelle,89,2014,1h 46m
+42. The Prestige,8.5,Christopher Nolan,66,2006,2h 10m
+43. Hotaru no haka,8.5,Isao Takahata,94,1988,1h 29m
+44. The Usual Suspects,8.5,Bryan Singer,76,1995,1h 46m
+45. Seppuku,8.6,Masaki Kobayashi,85,1962,2h 13m
+46. Casablanca,,Michael Curtiz,100,1942,1h 42m
+47. Intouchables,8.5,Olivier Nakache,57,2011,1h 52m
+48. Modern Times,8.5,Charles Chaplin,96,1936,1h 27m
+49. Nuovo Cinema Paradiso,8.5,Giuseppe Tornatore,80,1988,2h 35m
+50. C'era una volta il West,8.5,Sergio Leone,82,1968,2h 46m
+51. Rear Window,8.5,Alfred Hitchcock,100,1954,1h 52m
+52. Alien,8.5,Ridley Scott,89,1979,1h 57m
+53. City Lights,8.5,Charles Chaplin,99,1931,1h 27m
+54. Apocalypse Now,8.4,Francis Ford Coppola,94,1979,2h 27m
+55. Django Unchained,8.5,Quentin Tarantino,81,2012,2h 45m
+56. Memento,,Christopher Nolan,83,2000,1h 53m
+57. Raiders of the Lost Ark,8.4,Steven Spielberg,86,1981,1h 55m
+58. WALL·E,8.4,Andrew Stanton,95,2008,1h 38m
+59. Das Leben der Anderen,8.4,Florian Henckel von Donnersmarck,89,2006,2h 17m
+60. Sunset Blvd.,8.4,Billy Wilder,94,1950,1h 50m
+61. Paths of Glory,8.4,Stanley Kubrick,90,1957,1h 28m
+62. Avengers: Infinity War,8.4,Anthony Russo,68,2018,2h 29m
+63. The Shining,8.4,Stanley Kubrick,66,1980,2h 26m
+64. Spider-Man: Into the Spider-Verse,,Bob Persichetti,87,2018,1h 57m
+65. Witness for the Prosecution,,Billy Wilder,76,1957,1h 56m
+66. The Great Dictator,8.4,Charles Chaplin,N/A,1940,2h 5m
+67. Oppenheimer,8.4,Christopher Nolan,89,2023,J. Robert Oppenheimer
+68. Alien 2,8.4,James Cameron,84,1986,2h 17m
+69. Inglourious Basterds,8.4,Quentin Tarantino,69,2009,2h 33m
+70. The Dark Knight Rises,8.4,Christopher Nolan,78,2012,2h 44m
+71. American Beauty,8.3,Sam Mendes,84,1999,2h 2m
+72. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,Stanley Kubrick,97,1964,1h 35m
+73. Oldeuboi,8.4,Park Chan-wook,78,2003,"November 21, 2003 (South Korea)"
+74. Coco,,Lee Unkrich,81,2017,1h 45m
+75. Amadeus,,Milos Forman,87,1984,2h 40m
+76. Toy Story,8.3,John Lasseter,96,1995,1h 21m
+77. Das Boot,8.4,Wolfgang Petersen,85,1981,2h 29m
+78. Braveheart,8.3,Mel Gibson,68,1995,2h 58m
+79. Avengers: Endgame,8.4,Anthony Russo,78,2019,3h 1m
+80. Joker,8.4,Todd Phillips,59,2019,2h 2m
+81. Mononoke-hime,8.3,Hayao Miyazaki,76,1997,2h 14m
+82. Good Will Hunting,,Gus Van Sant,70,1997,2h 6m
+83. Kimi no na wa.,8.4,Makoto Shinkai,81,2016,1h 46m
+84. Once Upon a Time in America,8.3,Sergio Leone,75,1984,3h 49m
+85. Tengoku to jigoku,8.4,Akira Kurosawa,90,1963,2h 23m
+86. 3 Idiots,8.4,Rajkumar Hirani,67,2009,2h 50m
+87. Singin' in the Rain,8.3,Stanley Donen,99,1952,1h 43m
+88. Capharnaüm,8.4,Nadine Labaki,75,2018,2h 6m
+89. Requiem for a Dream,8.3,Darren Aronofsky,71,2000,1h 42m
+90. Idi i smotri,8.4,Elem Klimov,N/A,1985,2h 22m
+91. Toy Story 3,,Lee Unkrich,92,2010,1h 43m
+92. Star Wars: Episode VI - Return of the Jedi,8.3,Richard Marquand,58,1983,2h 11m
+93. Eternal Sunshine of the Spotless Mind,,Michel Gondry,89,2004,1h 48m
+94. 2001: A Space Odyssey,8.3,Stanley Kubrick,84,1968,2h 29m
+95. Jagten,8.3,Thomas Vinterberg,77,2012,1h 55m
+96. Reservoir Dogs,8.3,Quentin Tarantino,81,1992,1h 39m
+97. Ikiru,8.3,Akira Kurosawa,92,1952,2h 23m
+98. Lawrence of Arabia,,David Lean,100,1962,3h 38m
+99. The Apartment,8.3,Billy Wilder,94,1960,2h 5m
+100. Citizen Kane,8.3,Orson Welles,100,1941,1h 59m
+101. M - Eine Stadt sucht einen Mörder,8.3,Fritz Lang,N/A,1931,1h 57m
+102. North by Northwest,,Alfred Hitchcock,98,1959,2h 16m
+103. Vertigo,8.3,Alfred Hitchcock,100,1958,2h 8m
+104. Double Indemnity,,Billy Wilder,95,1944,1h 47m
+105. Scarface,8.3,Brian De Palma,65,1983,2h 50m
+106. Le fabuleux destin d'Amélie Poulain,8.3,Jean-Pierre Jeunet,69,2001,2h 2m
+107. Full Metal Jacket,,Stanley Kubrick,78,1987,1h 56m
+108. Incendies,8.3,Denis Villeneuve,80,2010,2h 11m
+109. A Clockwork Orange,8.3,Stanley Kubrick,77,1971,2h 16m
+110. Heat,8.3,Michael Mann,76,1995,2h 50m
+111. Up,,Pete Docter,88,2009,1h 36m
+112. To Kill a Mockingbird,,Robert Mulligan,88,1962,2h 9m
+113. The Sting,8.3,George Roy Hill,83,1973,2h 9m
+114. Hamilton,8.3,Thomas Kail,88,2020,2h 40m
+115. Jodaeiye Nader az Simin,8.3,Asghar Farhadi,95,2011,2h 3m
+116. Indiana Jones and the Last Crusade,8.2,Steven Spielberg,65,1989,2h 7m
+117. Metropolis,8.3,Fritz Lang,98,1927,2h 33m
+118. Die Hard,8.2,John McTiernan,72,1988,2h 12m
+119. Taare Zameen Par,8.3,Aamir Khan,N/A,2007,2h 42m
+120. Snatch,8.2,Guy Ritchie,55,2000,1h 44m
+121. L.A. Confidential,8.2,Curtis Hanson,91,1997,2h 18m
+122. Ladri di biciclette,8.3,Vittorio De Sica,N/A,1948,1h 29m
+123. 1917,8.2,Sam Mendes,78,2019,1h 59m
+124. Taxi Driver,8.2,Martin Scorsese,94,1976,1h 54m
+125. Der Untergang,,Oliver Hirschbiegel,82,2004,2h 36m
+126. Dangal,8.3,Nitesh Tiwari,N/A,2016,2h 41m
+127. Per qualche dollaro in più,,Sergio Leone,74,1965,2h 12m
+128. Batman Begins,8.2,Christopher Nolan,70,2005,2h 20m
+129. Top Gun: Maverick,8.3,Joseph Kosinski,78,2022,2h 10m
+130. Some Like It Hot,8.2,Billy Wilder,98,1959,2h 1m
+131. The Kid,8.2,Charles Chaplin,N/A,1921,1h 8m
+132. The Wolf of Wall Street,8.2,Martin Scorsese,75,2013,Agent Patrick Denham
+133. The Father,8.2,Florian Zeller,88,2020,1h 37m
+134. Green Book,8.2,Peter Farrelly,69,2018,2h 10m
+135. All About Eve,8.2,Joseph L. Mankiewicz,98,1950,2h 18m
+136. Judgment at Nuremberg,8.3,Stanley Kramer,60,1961,2h 59m
+137. The Truman Show,,Peter Weir,90,1998,1h 43m
+138. There Will Be Blood,8.2,Paul Thomas Anderson,93,2007,2h 38m
+139. Casino,8.2,Martin Scorsese,73,1995,2h 58m
+140. Shutter Island,8.2,Martin Scorsese,63,2010,2h 18m
+141. Ran,8.2,Akira Kurosawa,97,1985,2h 40m
+142. El laberinto del fauno,8.2,Guillermo del Toro,98,2006,1h 58m
+143. Jurassic Park,8.2,Steven Spielberg,68,1993,2h 7m
+144. The Sixth Sense,8.2,M. Night Shyamalan,64,1999,1h 47m
+145. Unforgiven,8.2,Clint Eastwood,85,1992,2h 10m
+146. A Beautiful Mind,8.2,Ron Howard,72,2001,2h 15m
+147. No Country for Old Men,8.2,Ethan Coen,92,2007,2h 2m
+148. The Treasure of the Sierra Madre,8.2,John Huston,98,1948,2h 6m
+149. Yôjinbô,8.2,Akira Kurosawa,93,1961,1h 50m
+150. Kill Bill: Vol. 1,8.2,Quentin Tarantino,69,2003,1h 51m
+151. The Thing,8.2,John Carpenter,57,1982,1h 49m
+152. Monty Python and the Holy Grail,8.2,Terry Gilliam,91,1975,1h 31m
+153. The Great Escape,8.2,John Sturges,86,1963,2h 52m
+154. Finding Nemo,8.2,Andrew Stanton,90,2003,1h 40m
+155. Rashômon,,Akira Kurosawa,98,1950,1h 28m
+156. The Elephant Man,8.2,David Lynch,78,1980,2h 4m
+157. Chinatown,8.2,Roman Polanski,92,1974,2h 10m
+158. Hauru no ugoku shiro,8.2,Hayao Miyazaki,82,2004,1h 59m
+159. Dial M for Murder,,Alfred Hitchcock,75,1954,1h 45m
+160. Gone with the Wind,,Victor Fleming,97,1939,3h 58m
+161. Prisoners,8.1,Denis Villeneuve,70,2013,2h 33m
+162. V for Vendetta,8.2,James McTeigue,62,2005,2h 12m
+163. Raging Bull,8.1,Martin Scorsese,90,1980,2h 9m
+"164. Lock, Stock and Two Smoking Barrels",8.1,Guy Ritchie,66,1998,1h 47m
+165. El secreto de sus ojos,8.2,Juan José Campanella,80,2009,2h 9m
+166. Inside Out,8.1,Pete Docter,94,2015,1h 35m
+167. Spider-Man: No Way Home,8.2,Jon Watts,71,2021,2h 28m
+"168. Three Billboards Outside Ebbing, Missouri",8.1,Martin McDonagh,88,2017,1h 55m
+169. Trainspotting,8.1,Danny Boyle,83,1996,1h 33m
+170. The Bridge on the River Kwai,8.1,David Lean,87,1957,2h 41m
+171. Fargo,8.1,Joel Coen,86,1996,1h 38m
+172. Warrior,,Gavin O'Connor,71,2011,2h 20m
+173. Catch Me If You Can,8.1,Steven Spielberg,75,2002,2h 21m
+174. Gran Torino,8.1,Clint Eastwood,72,2008,1h 56m
+175. Klaus,8.2,Sergio Pablos,65,2019,1h 36m
+176. Tonari no Totoro,8.1,Hayao Miyazaki,86,1988,1h 26m
+177. Million Dollar Baby,8.1,Clint Eastwood,86,2004,2h 12m
+178. Harry Potter and the Deathly Hallows - Part 2,8.1,David Yates,85,2011,2h 10m
+179. Bacheha-Ye aseman,8.2,Majid Majidi,77,1997,1h 29m
+180. Blade Runner,,Ridley Scott,84,1982,1h 57m
+181. 12 Years a Slave,8.1,Steve McQueen,96,2013,2h 14m
+182. Before Sunrise,,Richard Linklater,77,1995,1h 41m
+183. The Grand Budapest Hotel,8.1,Wes Anderson,88,2014,1h 39m
+184. Ben-Hur,8.1,William Wyler,90,1959,3h 32m
+185. Barry Lyndon,8.1,Stanley Kubrick,89,1975,3h 5m
+186. The Gold Rush,8.1,Charles Chaplin,N/A,1925,1h 35m
+187. Gone Girl,8.1,David Fincher,79,2014,2h 29m
+188. Hacksaw Ridge,8.1,Mel Gibson,71,2016,2h 19m
+189. In the Name of the Father,,Jim Sheridan,84,1993,2h 13m
+190. On the Waterfront,8.1,Elia Kazan,91,1954,1h 48m
+191. Salinui chueok,8.1,Bong Joon Ho,82,2003,2h 11m
+192. The General,,Clyde Bruckman,N/A,1926,1h 18m
+193. The Deer Hunter,8.1,Michael Cimino,86,1978,3h 3m
+194. Relatos salvajes,8.1,Damián Szifron,77,2014,2h 2m
+195. Smultronstället,,Ingmar Bergman,88,1957,1h 31m
+196. Dead Poets Society,8.1,Peter Weir,79,1989,2h 8m
+197. The Third Man,8.1,Carol Reed,97,1949,1h 44m
+198. Le salaire de la peur,8.2,Henri-Georges Clouzot,85,1953,2h 11m
+199. Mad Max: Fury Road,8.1,George Miller,90,2015,The Bullet Farmer
+200. Sherlock Jr.,8.2,Buster Keaton,N/A,1924,Girl Who Loses Dollar Outside Cinema
+"201. Monsters, Inc.",,Pete Docter,79,2001,1h 32m
+202. Mr. Smith Goes to Washington,,Frank Capra,73,1939,2h 9m
+203. Jaws,8.1,Steven Spielberg,87,1975,2h 4m
+204. How to Train Your Dragon,8.1,Dean DeBlois,75,2010,1h 38m
+205. Mary and Max.,8.1,Adam Elliot,N/A,2009,1h 32m
+206. Ford v Ferrari,,James Mangold,81,2019,2h 32m
+207. Det sjunde inseglet,8.1,Ingmar Bergman,88,1957,1h 36m
+208. Room,,Lenny Abrahamson,86,2015,1h 58m
+209. The Big Lebowski,,Joel Coen,71,1998,1h 57m
+210. Ratatouille,8.1,Brad Bird,96,2007,1h 51m
+211. Tôkyô monogatari,8.1,Yasujirô Ozu,100,1953,2h 16m
+212. Rocky,8.1,John G. Avildsen,70,1976,"1818 East Tusculum Street, Kensington, North Philadelphia, Pennsylvania, USA(Rocky's home)"
+213. Hotel Rwanda,8.1,Terry George,79,2004,2h 1m
+214. Logan,,James Mangold,77,2017,2h 17m
+215. Spotlight,8.1,Tom McCarthy,93,2015,2h 9m
+216. Platoon,8.1,Oliver Stone,92,1986,N/A
+217. La passion de Jeanne d'Arc,8.1,Carl Theodor Dreyer,98,1928,1h 50m
+218. The Terminator,8.1,James Cameron,84,1984,1h 47m
+219. Jai Bhim,,T.J. Gnanavel,N/A,2021,2h 44m
+220. Before Sunset,8.1,Richard Linklater,91,2004,1h 20m
+221. Rush,8.1,Ron Howard,74,2013,2h 3m
+222. Network,8.1,Sidney Lumet,83,1976,2h 1m
+223. The Best Years of Our Lives,8.1,William Wyler,93,1946,2h 50m
+224. The Exorcist,8.1,William Friedkin,82,1973,2h 2m
+225. Stand by Me,8.1,Rob Reiner,75,1986,1h 29m
+226. La haine,,Mathieu Kassovitz,N/A,1995,1h 38m
+227. Pirates of the Caribbean: The Curse of the Black Pearl,8.1,Gore Verbinski,63,2003,2h 23m
+228. The Wizard of Oz,,Victor Fleming,92,1939,1h 42m
+229. The Incredibles,8.0,Brad Bird,90,2004,1h 55m
+230. Into the Wild,8.1,Sean Penn,73,2007,2h 28m
+231. Hachi: A Dog's Tale,8.1,Lasse Hallström,N/A,2009,1h 33m
+232. Ah-ga-ssi,8.1,Park Chan-wook,85,2016,2h 25m
+233. To Be or Not to Be,8.2,Ernst Lubitsch,86,1942,1h 39m
+234. Babam ve Oglum,8.2,Çagan Irmak,N/A,2005,1h 52m
+235. Groundhog Day,8.0,Harold Ramis,72,1993,1h 41m
+236. La battaglia di Algeri,8.1,Gillo Pontecorvo,96,1966,2h 1m
+237. The Grapes of Wrath,,John Ford,96,1940,2h 9m
+238. Amores perros,8.1,Alejandro G. Iñárritu,83,2000,2h 34m
+239. The Sound of Music,8.1,Robert Wise,63,1965,2h 52m
+240. Rebecca,,Alfred Hitchcock,86,1940,2h 10m
+241. Cool Hand Luke,8.1,Stuart Rosenberg,92,1967,2h 7m
+242. The Iron Giant,,Brad Bird,85,1999,1h 26m
+243. The Help,8.1,Tate Taylor,62,2011,2h 26m
+244. It Happened One Night,8.1,Frank Capra,87,1934,1h 45m
+245. Pather Panchali,8.2,Satyajit Ray,N/A,1955,2h 5m
+246. Les quatre cents coups,8.1,François Truffaut,N/A,1959,1h 39m
+247. Aladdin,8.0,Ron Clements,86,1992,1h 30m
+248. Dances with Wolves,8.0,Kevin Costner,72,1990,3h 1m
+249. Life of Brian,8.0,Terry Jones,77,1979,1h 34m
+250. Persona,8.1,Ingmar Bergman,86,1966,1h 25m
+Top Box Office (US),N/A,N/A,N/A,N/A,N/A
+Most Popular Movies,N/A,N/A,N/A,N/A,N/A
+Top Rated English Movies,N/A,N/A,N/A,N/A,N/A
+Most Popular TV Shows,N/A,N/A,N/A,N/A,N/A
+Top 250 TV Shows,N/A,N/A,N/A,N/A,N/A
+Lowest Rated Movies,N/A,N/A,N/A,N/A,N/A
+Most Popular Celebs,N/A,N/A,N/A,N/A,N/A
+38. Léon,8.5,Luc Besson,64,1994,1h 50m
+236. La battaglia di Algeri,8.1,Gillo Pontecorvo,96,1966,2h 1m
+73. Oldeuboi,8.4,Park Chan-wook,78,2003,"November 21, 2003 (South Korea)"
+Lowest Rated Movies,N/A,N/A,N/A,N/A,N/A
+204. How to Train Your Dragon,8.1,Dean DeBlois,75,2010,1h 38m
+134. Green Book,8.2,Peter Farrelly,69,2018,2h 10m
+145. Unforgiven,8.2,Clint Eastwood,85,1992,2h 10m
+130. Some Like It Hot,8.2,Billy Wilder,98,1959,2h 1m
+72. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,Stanley Kubrick,97,1964,1h 35m
+238. Amores perros,8.1,Alejandro G. Iñárritu,83,2000,2h 34m
+179. Bacheha-Ye aseman,8.2,Majid Majidi,77,1997,1h 29m
+Top 250 TV Shows,,N/A,N/A,N/A,N/A
+Top Rated English Movies,N/A,N/A,N/A,N/A,N/A
+157. Chinatown,8.2,Roman Polanski,92,1974,2h 10m
+51. Rear Window,,Alfred Hitchcock,100,1954,1h 52m
+69. Inglourious Basterds,8.4,Quentin Tarantino,69,2009,2h 33m
+216. Platoon,8.1,Oliver Stone,92,1986,N/A
+242. The Iron Giant,8.1,Brad Bird,85,1999,1h 26m
+87. Singin' in the Rain,8.3,Stanley Donen,99,1952,1h 43m
+142. El laberinto del fauno,8.2,Guillermo del Toro,98,2006,1h 58m
+8. Pulp Fiction,8.9,Quentin Tarantino,95,1994,2h 34m
+23. The Silence of the Lambs,8.6,Jonathan Demme,86,1991,1h 58m
+2. The Godfather,9.2,Francis Ford Coppola,100,1972,2h 55m
+210. Ratatouille,8.1,Brad Bird,96,2007,1h 51m
+217. La passion de Jeanne d'Arc,,Carl Theodor Dreyer,98,1928,1h 50m
+142. El laberinto del fauno,,Guillermo del Toro,98,2006,1h 58m
+116. Indiana Jones and the Last Crusade,8.2,Steven Spielberg,65,1989,2h 7m
+122. Ladri di biciclette,8.3,Vittorio De Sica,N/A,1948,1h 29m
+31. Back to the Future,8.5,Robert Zemeckis,87,1985,1h 56m
+72. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,,Stanley Kubrick,97,1964,1h 35m
